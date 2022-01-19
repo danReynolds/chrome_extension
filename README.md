@@ -1,6 +1,6 @@
 # chrome_extension
 
-A starter repo for building Chrome extensions with Flutter.
+A starter repo for building Chrome extensions with Flutter. To walkthrough adding support for a Chrome extension to a Flutter app, check out [our guide](https://blog.pollyn.app/posts/2022-01-18-flutter-chrome-extension/){:target="_blank"}.
 
 ### Build
 
