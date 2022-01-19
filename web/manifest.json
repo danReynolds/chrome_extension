@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "version": "1.2.0",
+  "name": "chrome_extension",
+  "description": "A new Flutter project.",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon-192.png",
+      "32": "icons/icon-192.png",
+      "48": "icons/icon-192.png",
+      "128": "icons/icon-192.png"
+    }
+  },
+  "content_security_policy": "script-src 'self' https://unpkg.com/canvaskit-wasm@0.30.0/bin/canvaskit.js; object-src 'self'"
+}
